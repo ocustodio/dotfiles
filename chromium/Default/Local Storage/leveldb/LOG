@@ -1,0 +1,27 @@
+2024/01/23-21:14:49.762 4 Reusing MANIFEST /home/vito/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/01/23-21:14:49.778 4 Recovering log #66
+2024/01/23-21:14:49.781 4 Reusing old log /home/vito/.config/chromium/Default/Local Storage/leveldb/000066.log 
+2024/01/23-21:24:51.499 5 Level-0 table #70: started
+2024/01/23-21:24:51.502 5 Level-0 table #70: 39796 bytes OK
+2024/01/23-21:24:51.503 5 Delete type=0 #66
+2024/01/23-21:51:15.477 5 Level-0 table #72: started
+2024/01/23-21:51:15.479 5 Level-0 table #72: 42226 bytes OK
+2024/01/23-21:51:15.481 5 Delete type=0 #69
+2024/01/23-21:51:15.481 5 Compacting 4@0 + 1@1 files
+2024/01/23-21:51:15.492 5 Generated table #73@0: 559 keys, 361084 bytes
+2024/01/23-21:51:15.492 5 Compacted 4@0 + 1@1 files => 361084 bytes
+2024/01/23-21:51:15.493 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/23-21:51:15.493 5 Delete type=2 #70
+2024/01/23-21:51:15.493 5 Delete type=2 #62
+2024/01/23-21:51:15.493 5 Delete type=2 #64
+2024/01/23-21:51:15.493 5 Delete type=2 #72
+2024/01/23-21:51:15.493 5 Delete type=2 #67
+2024/01/23-22:01:18.093 5 Level-0 table #75: started
+2024/01/23-22:01:18.095 5 Level-0 table #75: 26044 bytes OK
+2024/01/23-22:01:18.097 5 Delete type=0 #71
+2024/01/23-22:27:25.095 5 Level-0 table #77: started
+2024/01/23-22:27:25.098 5 Level-0 table #77: 37930 bytes OK
+2024/01/23-22:27:25.100 5 Delete type=0 #74
+2024/01/23-22:33:51.093 5 Level-0 table #79: started
+2024/01/23-22:33:51.095 5 Level-0 table #79: 16889 bytes OK
+2024/01/23-22:33:51.097 5 Delete type=0 #76

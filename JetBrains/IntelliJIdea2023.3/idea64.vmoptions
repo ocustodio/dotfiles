@@ -1,0 +1,4 @@
+-Xmx2048m
+-Dide.managed.by.toolbox=/home/vito/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=63617d35-5a65-4bc0-8b80-731a7dd126bc
+-Dtoolbox.notification.portFile=/home/vito/.cache/JetBrains/Toolbox/ports/1725838182.port

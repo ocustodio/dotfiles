@@ -1,0 +1,46 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="AtomFileIcons.Actions">
+      <i c="3" l="1706058381466" />
+    </e>
+    <e n="CloseProject">
+      <i c="2" l="1706058317249" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1" l="1706058896792" />
+    </e>
+    <e n="EnableFileIconsAction">
+      <i c="2" l="1706058378988" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="6" l="1706057811450" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1706057246716" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="6" l="1706058388159" />
+    </e>
+    <e n="ShowSettings">
+      <i c="5" l="1706058389985" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="3" l="1706057266709" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="1" l="1706057264890" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="1" l="1706057334512" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$2">
+      <i c="1" l="1706057395304" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1706058315905" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1706057228177" />
+    </e>
+  </component>
+</application>

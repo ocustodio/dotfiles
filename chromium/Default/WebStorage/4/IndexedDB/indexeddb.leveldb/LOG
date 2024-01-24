@@ -1,0 +1,6 @@
+2024/01/23-17:41:26.747 470 Creating DB /home/vito/.config/chromium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb since it was missing.
+2024/01/23-17:41:26.749 470 Reusing MANIFEST /home/vito/.config/chromium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/23-17:41:29.303 6e4 Level-0 table #5: started
+2024/01/23-17:41:29.304 6e4 Level-0 table #5: 460 bytes OK
+2024/01/23-17:41:29.305 6e4 Delete type=0 #3
+2024/01/23-17:41:29.305 6e4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
