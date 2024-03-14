@@ -1,5 +1,0 @@
-2024/01/23-21:23:03.536 34d Reusing MANIFEST /home/vito/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/23-21:23:03.536 34d Recovering log #32
-2024/01/23-21:23:03.585 34d Reusing old log /home/vito/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000032.log 
-2024/01/23-21:23:03.585 34d Delete type=2 #30
-2024/01/23-21:23:03.585 34d Delete type=2 #33
